@@ -6,8 +6,8 @@ Pewlett-Hackard is a large company that is currently looking carefully at its em
 ## Results
 - A total of 72,458 current employees were identified as being retirement-eligible while analyzing data for birth dates between 1/1/52 and 12/31/55.    
 - Seven staff titles were identified among the 72,458 retirement-eligible employees. These employees include 25916 Senior Engineers, 24926 Senior Staff, 9,285 Engineers, 7636 Staff, 3603 Technique Leaders, 1090 Assistant Engineers, and 2 Managers.
-- 
-- ![retirement_title_num](https://user-images.githubusercontent.com/90944163/152087740-1f51c861-d16b-47ce-be38-3873fa2ee1a8.png)
+ 
+![retirement_title_num](https://user-images.githubusercontent.com/90944163/152087740-1f51c861-d16b-47ce-be38-3873fa2ee1a8.png)
 
 - The bulk of upcoming retirements span two titles:  Senior Engineer and Senior Staff positions.  These two titles comprise approximately 70% of the retiring positions. 
 - A total of 1549 total mentorship-eligible employees were identified by analyzing data for employees with birth dates between 1/1/65 and 12/31/65 (approximately 10-14 years pre-retirement eligibility). 
